@@ -11,7 +11,7 @@
 <ul>
 <li>🔭 I’m currently working on web scrapping with Cypress</a>.</li>
 <li>🧐 Learning about <strong>getting datas</strong> from any source to play with.</li>
-<li>👨‍💻 Most of my projects are available private</a>.</li>
+<li>👨‍💻 Most of my projects are private</a>.</li>
 <li>📝 I <del>some time</del> write articles on <a href="https://jeremyleriche.fr">my blog</a>.</li>
 <li>📙 Check out my <a href="https://jeremyleriche.fr/assets/txt/CV.pdf">resume</a>.</li>
 <li>🎉 Fun Fact: chatgpt</li>
