@@ -1,5 +1,5 @@
 <h2>(👉ﾟヮﾟ)👉 Hi there, I'm <a href="https://jeremyleriche.fr">Jérémy</a></h2>
-<p>I'm currently a full stack developer at <strong><a href="https://www.natural-solutions.eu/">Natural Solutions</a></strong> and based in 🌁 Marseille. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Olimar.</p>
+<p>I'm currently a full stack developer at <strong><a href="https://www.lexagri.com/fr/notre-entreprise/">Lexagri</a></strong> and based in 🌁 Marseille. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Olimar.</p>
 <p>
   <a href="https://jeremyleriche.fr"><img src="https://img.shields.io/badge/-jeremyleriche.fr-4E69C8?style=flat-square&amp;color=212121&amp;logoColor=white&amp;labelColor=212121&amp;logo=googlechrome&amp;link=https://jeremyleriche.fr" alt="Website Badge"></a>
   <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-leriche-985107167/"><img src="https://img.shields.io/badge/-@jeje2201-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/j%C3%A9r%C3%A9my-leriche-985107167/" alt="LinkedIn Badge"></a>
